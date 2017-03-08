@@ -1,0 +1,9 @@
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Client_File\TCP_Client_File\bin\Debug\TCP_Client_File.exe.config
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Client_File\TCP_Client_File\bin\Debug\TCP_Client_File.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Client_File\TCP_Client_File\bin\Debug\TCP_Client_File.pdb
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Client_File\TCP_Client_File\obj\Debug\TCP_Client_File.Form1.resources
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Client_File\TCP_Client_File\obj\Debug\TCP_Client_File.Properties.Resources.resources
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Client_File\TCP_Client_File\obj\Debug\TCP_Client_File.csproj.GenerateResource.Cache
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Client_File\TCP_Client_File\obj\Debug\TCP_Client_File.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Client_File\TCP_Client_File\obj\Debug\TCP_Client_File.pdb
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Client_File\TCP_Client_File\obj\Debug\TCP_Client_File.csprojResolveAssemblyReference.cache

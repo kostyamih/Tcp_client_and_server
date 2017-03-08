@@ -1,0 +1,9 @@
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Server_File\TCP_Server_File\bin\Debug\TCP_Server_File.exe.config
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Server_File\TCP_Server_File\bin\Debug\TCP_Server_File.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Server_File\TCP_Server_File\bin\Debug\TCP_Server_File.pdb
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Server_File\TCP_Server_File\obj\Debug\TCP_Server_File.Form1.resources
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Server_File\TCP_Server_File\obj\Debug\TCP_Server_File.Properties.Resources.resources
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Server_File\TCP_Server_File\obj\Debug\TCP_Server_File.csproj.GenerateResource.Cache
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Server_File\TCP_Server_File\obj\Debug\TCP_Server_File.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Server_File\TCP_Server_File\obj\Debug\TCP_Server_File.pdb
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\TCP_Server_File\TCP_Server_File\obj\Debug\TCP_Server_File.csprojResolveAssemblyReference.cache
